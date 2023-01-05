@@ -1,0 +1,12 @@
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\bin\Debug\net6.0\UtmBilder.Core.deps.json
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\bin\Debug\net6.0\UtmBilder.Core.dll
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\bin\Debug\net6.0\UtmBilder.Core.pdb
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\obj\Debug\net6.0\UtmBilder.Core.csproj.AssemblyReference.cache
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\obj\Debug\net6.0\UtmBilder.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\obj\Debug\net6.0\UtmBilder.Core.AssemblyInfoInputs.cache
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\obj\Debug\net6.0\UtmBilder.Core.AssemblyInfo.cs
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\obj\Debug\net6.0\UtmBilder.Core.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\obj\Debug\net6.0\UtmBilder.Core.dll
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\obj\Debug\net6.0\refint\UtmBilder.Core.dll
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\obj\Debug\net6.0\UtmBilder.Core.pdb
+C:\Users\diego\Desenvolvimento\aprendendo\dotNet\UtmBilder\UtmBilder.Core\obj\Debug\net6.0\ref\UtmBilder.Core.dll
